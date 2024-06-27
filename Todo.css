@@ -1,0 +1,17 @@
+body{
+    background-color:lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 6px;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
